@@ -24,6 +24,12 @@ npm run build
 npm run lint
 ```
 
+### Netlify deployment link
+
+```
+https://61b5dc9b9069c67e7f705e9b--sharp-blackwell-977051.netlify.app/
+```
+
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
